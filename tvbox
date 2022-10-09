@@ -1081,5 +1081,5 @@
       "cms.qdwght.com"
     ],
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://cdn.jsdelivr.net/gh/jetyu/TVBox@main/jar/tvbox.png;md5;930fa11b2dc2f931ccca9dd33e34afac"
+    "spider": "https://cdn.jsdelivr.net/gh/jetyu/TVBox@main/jar/tvbox.jar;md5;930fa11b2dc2f931ccca9dd33e34afac"
   }
