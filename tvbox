@@ -39,7 +39,7 @@
       },
       {
         "key": "csp_AppTT",
-        "name": "兔兔影视",
+        "name": "图图影视",
         "type": 3,
         "api": "csp_AppTT",
         "searchable": 1,
@@ -75,7 +75,7 @@
       },
       {
         "key": "csp_Bttoo",
-        "name": "白糖资源",
+        "name": "比特资源",
         "type": 3,
         "api": "csp_Bttoo",
         "searchable": 1,
@@ -1081,5 +1081,5 @@
       "cms.qdwght.com"
     ],
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://cdn.jsdelivr.net/gh/jetyu/TVBox@main/jar/tvbox.jar;md5;d651458f4226242db2ebf7924533f705"
+    "spider": "https://cdn.jsdelivr.net/gh/jetyu/TVBox@main/jar/tvbox.png;md5;d651458f4226242db2ebf7924533f705"
   }
