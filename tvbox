@@ -10,19 +10,19 @@
       "filterable": 1
     },
     {
-      "key": "csp_77",
-      "name": "酷云影视",
+      "key": "csp_kuaikan",
+      "name": "快看影视",
       "type": 3,
-      "api": "csp_Kunyu77",
+      "api": "csp_Kuaikan",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "csp_kuaikan",
-      "name": "快看影视",
+      "key": "csp_77",
+      "name": "酷云影视",
       "type": 3,
-      "api": "csp_Kuaikan",
+      "api": "csp_Kunyu77",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
