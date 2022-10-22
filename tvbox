@@ -109,15 +109,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_Juhuang",
-            "name": "聚视影院",
-            "type": 3,
-            "api": "csp_Juhuang",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_ZJMiao",
             "name": "香蕉影视",
             "type": 3,
@@ -137,7 +128,7 @@
         },
         {
             "key": "csp_LibVio",
-            "name": "梨涡资源",
+            "name": "荔波影视",
             "type": 3,
             "api": "csp_Lib",
             "searchable": 1,
@@ -152,7 +143,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.iqiq.io/2hacc/TVBox/main/json/nmys.json"
+            "ext": "https://raw.fastgit.org/jetyu/TVBox/main/json/nmys.json"
         },
         {
             "key": "csp_xbb_搜狗影院",
