@@ -1,10 +1,10 @@
 {
     "sites": [
         {
-            "key": "",
+            "key": "douban",
             "name": "TVBox",
-            "type": 3,
-            "api": "csp_Lezhu",
+            "type": 4,
+            "api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1
@@ -177,15 +177,6 @@
                 "少儿",
                 "其他片"
             ]
-        },
-        {
-            "key": "douban",
-            "name": "豆瓣荐片",
-            "type": 4,
-            "api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
         },
         {
             "key": "csp_biubiu_骚火电影",
@@ -674,7 +665,7 @@
         },
         {
             "key": "鑫总资源",
-            "name": "星综资源",
+            "name": "星光资源",
             "type": 3,
             "api": "csp_AppYs",
             "searchable": 0,
@@ -693,56 +684,6 @@
             "ext": "http://app.wnvod.net/lvdou_api.php/v1.vod"
         },
         {
-            "key": "csp_appysv2_群鑫影视",
-            "name": "群鑫影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://www.qunxinys.com/api.php/v1.vod"
-        },
-        {
-            "key": "csp_appysv2_极酷影视",
-            "name": "极酷影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://jiku.vip/mogai_api.php/v1.vod"
-        },
-        {
-            "key": "csp_appysv2_百淘影视",
-            "name": "百淘影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://ys.58g8.com/lvdou_api.php/v1.vod"
-        },
-        {
-            "key": "csp_appysv2_小南TV",
-            "name": "小南电视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://n293.ngys.xyz/mv/api.php/Chengcheng/vod/"
-        },
-        {
-            "key": "csp_appysv2_盒子视界",
-            "name": "盒子视界",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://eh.tvzy.cc/api.php/iptv/vod/"
-        },
-        {
             "key": "csp_appysv2_独优影视",
             "name": "独优影视",
             "type": 3,
@@ -753,16 +694,6 @@
             "ext": "http://121.205.88.71:218/api.php/Chengcheng/vod/"
         },
         {
-            "key": "csp_appysv2_CV影视",
-            "name": "西威影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://www.cccvvv.top/api.php/iptv/vod/"
-        },
-        {
             "key": "QC 影视",
             "name": "清晨影视",
             "type": 3,
@@ -771,16 +702,6 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "https://www.qcsvip.com/mogai_api.php/v1.vod"
-        },
-        {
-            "key": "刺猬影视",
-            "name": "刺猬影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://www.cccvvv.top/api.php/iptv/vod/"
         },
         {
             "key": "玖卿乐播",
@@ -811,24 +732,6 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "http://app.wnvod.net/lvdou_api.php/v1.vod"
-        },
-        {
-            "key": "波比影视",
-            "name": "波比影视",
-            "type": 1,
-            "api": "http://xxhhsc.top/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        {
-            "key": "西柚影视",
-            "name": "西柚影视",
-            "type": 1,
-            "api": "http://43.135.75.180:9999/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
         },
         {
             "key": "多多资源",
@@ -900,30 +803,12 @@
             "filterable": 0
         },
         {
-            "key": "影图影视",
-            "name": "影图影视",
-            "type": 1,
-            "api": "https://cj.vodimg.top/api.php/provide/vod/",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
-        },
-        {
             "key": "天天影视",
             "name": "天天影视",
             "type": 1,
             "api": "http://tttv.cf/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0
-        },
-        {
-            "key": "幻风影视",
-            "name": "幻风影视",
-            "type": 1,
-            "api": "http://vip857.top/api.php/provide/vod/",
-            "searchable": 0,
-            "quickSearch": 0,
             "filterable": 0
         },
         {
