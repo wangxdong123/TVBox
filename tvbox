@@ -1341,5 +1341,5 @@
         }
     ],
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://raw.fastgit.org/jetyu/TVBox/main/jar/tvbox.png;md5;610006075c76f429d58dd046404e6d4d"
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/jetyu/TVBox/main/jar/tvbox.png;md5;610006075c76f429d58dd046404e6d4d"
 }
