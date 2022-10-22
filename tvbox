@@ -19,24 +19,8 @@
             "filterable": 1
         },
         {
-            "key": "drpy_js_555影视",
-            "name": "555影视[DRPY]",
-            "type": 3,
-            "api": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js",
-            "ext": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/555影视.js"
-        },
-        {
-            "key": "csp_dd5555",
-            "name": "555",
-            "api": "csp_Dy555",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
-        },
-        {
             "key": "csp_SP293",
-            "name": "293",
+            "name": "飞天资源",
             "type": 3,
             "api": "csp_SP293",
             "searchable": 1,
