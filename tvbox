@@ -1,5 +1,5 @@
 {
-    "spider": "https://cdn.staticaly.com/gh/2hacc/tvbox/main/jar/tvbox.png",
+    "spider": "https://cdn.staticaly.com/gh/jetyu/tvbox/main/jar/tvbox.png",
     "sites": [
         {
             "key": "douban",
@@ -176,7 +176,6 @@
             "filterable": 0,
             "ext": "https://raw.fastgit.org/jetyu/TVBox/main/json/稀饭影视.json"
         },
-     
         {
             "key": "csp_biubiu_大米星球",
             "name": "星球资源",
@@ -277,7 +276,6 @@
             "filterable": 0,
             "ext": "https://raw.fastgit.org/jetyu/TVBox/main/json/花猫TV.json"
         },
-
         {
             "key": "csp_biubiu_如如影视",
             "name": "自如资源",
@@ -679,7 +677,6 @@
             "filterable": 0,
             "ext": "http://v.i7yc.cn/api.php/v1.vod"
         },
-        
         {
             "key": "多多资源",
             "name": "多看采集",
