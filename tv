@@ -1,5 +1,5 @@
 {
-    "spider": "https://raw.kgithub.com/jetyu/tvbox/main/jar/tvbox.png",
+    "spider": "https://raw.iqiq.io/jetyu/tvbox/main/jar/tvbox.png",
     "sites": [
         {
             "key": "douban",
