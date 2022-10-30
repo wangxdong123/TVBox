@@ -1,5 +1,5 @@
 {
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/jetyu/TVBox/main/jar/tvbox.png",
+    "spider": "https://raw.kgithub.com/jetyu/tvbox/main/jar/tvbox.png",
     "sites": [
         {
             "key": "douban",
